@@ -8,7 +8,7 @@ ___
 #### Text Editor: Vs Code , Neovim 
 
  ### Tassoman01 stats
- https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=crt
+ https://pixel-profile.vercel.app/api/github-stats?username=tassoman01&theme=crt
 
 
 
