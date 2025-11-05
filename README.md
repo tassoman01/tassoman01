@@ -7,13 +7,9 @@ ___
 #### Tools: Git , Obsidian , Latex 
 #### Text Editor: Vs Code , Neovim 
 
- https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=rainbow
+ [!https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=CRT]
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Tassoman0&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&theme=summer">
-</picture>
+
 
 
 ___
