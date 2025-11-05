@@ -7,7 +7,7 @@ ___
 #### Tools: Git , Obsidian , Latex 
 #### Text Editor: Vs Code , Neovim 
 
- [!https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=CRT]
+ ### Tassoman01 stats (https://pixel-profile.vercel.app/api/github-stats?username=Tassoman01&screen_effect=true&theme=CRT)
 
 
 
